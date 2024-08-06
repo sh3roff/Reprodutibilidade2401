@@ -7,3 +7,9 @@ editor: visual
 ## Repositório de aulas de reprodutibilidade
 
 A disciplina de Reprodutibilidade Científica com o R está sendo ministrada no primeiro semestre de 2024, pelo professor Maurício Camargo.
+
+![Minúsculo da mamãe](https://th.bing.com/th/id/OIP.KKTsf3s2OnwadSB-AwYAFQHaE1?rs=1&pid=ImgDetMain)
+
+\![Miminho da Amanda\] (<https://th.bing.com/th/id/OIP.akZpPTga0X8vuo5pHZQ45AHaE7?rs=1&pid=ImgDetMain>)
+
+![Miminho da Amanda pobre computador](https://guiaanimal.net/uploads/content/image/48533/Design_sem_nome_-_2021-08-20T184136.453.png)
