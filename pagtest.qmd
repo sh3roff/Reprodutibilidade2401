@@ -1,0 +1,10 @@
+---
+title: "Trabalho1_REP"
+author: "Sheron Magalhães dos Santos"
+format: html
+editor: visual
+---
+
+Teste da página para mostrar para a Janaína
+
+![gatinha Marie](https://img.elo7.com.br/product/zoom/3606EC0/gatinha-marie-mini-painel-70cm-festas.jpg)
